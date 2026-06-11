@@ -719,3 +719,9 @@ REIMEI-NOP, REIMEI-CIVILIZATION, Dawn Civilization, Natural-Origin Plasma Genera
 #DistributedEnergy
 #OpenInvention
 #AIAndroid
+
+---
+
+## Related Mobility and Climate-Adaptive Vehicle Concept
+
+* [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) — A climate-adaptive mobility concept integrating AER-Loop airflow energy recovery, center-mist evaporative cooling, and retrofit vehicle modules.
