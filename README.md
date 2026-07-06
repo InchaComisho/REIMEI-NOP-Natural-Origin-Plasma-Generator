@@ -1,5 +1,7 @@
 # REIMEI-NOP: Natural-Origin Plasma Generator
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## An Open Hypothesis for a Nature-Inspired Energy Reactor Based on the Principles of Lightning
 
 [日本語版はこちら / Japanese version](README_ja.md)

@@ -1,5 +1,7 @@
 # REIMEI-NOP：自然起源プラズマ生成炉構想
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 雷の原理を模倣する自然模倣型エネルギー炉のオープン仮説
 
 [English version](README.md)
