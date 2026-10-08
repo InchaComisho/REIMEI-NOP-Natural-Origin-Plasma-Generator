@@ -6,12 +6,6 @@
 
 [English version](README.md)
 
-Original NOTE article:
-https://note.com/inchacomusho/n/nf62145209118
-
-Related original concept article:
-https://note.com/inchacomusho/n/n79be86605430
-
 ---
 
 ## 概要
@@ -616,16 +610,6 @@ REIMEI-NOPは、自然を支配するための技術ではない。
 - [REIMEI 自然模倣型エネルギー・アーキテクチャ](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README_ja.md) — 回転磁気エネルギー回収、REIMEI-NOP、音波発電、振動発電、圧力型水循環回収、熱・排気回収、車両エネルギー回収、AIアンドロイド用エネルギーコア仮説など、マスターの自然模倣型・分散型エネルギー構想を整理するポータル。完成技術群の主張ではなく、未検証のオープン仮説・オープン発明の索引である。
 
 - [English version: REIMEI Nature-Inspired Energy Architecture](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README.md)
-
-## Related Articles / 関連記事
-
-### 雷の原理を模倣する自然起源プラズマ炉構想──REIMEI-NOPという一般人のオープン仮説
-
-https://note.com/inchacomusho/n/nf62145209118
-
-### REIMEI-NOP 技術設計書兼文明宣言（Open Concept）
-
-https://note.com/inchacomusho/n/n79be86605430
 
 ---
 

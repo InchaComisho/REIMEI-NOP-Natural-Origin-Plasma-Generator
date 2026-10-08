@@ -6,12 +6,6 @@
 
 [日本語版はこちら / Japanese version](README_ja.md)
 
-Original NOTE article:
-https://note.com/inchacomusho/n/nf62145209118
-
-Related original concept article:
-https://note.com/inchacomusho/n/n79be86605430
-
 ---
 
 ## Overview
@@ -610,15 +604,6 @@ It is a question about how technology might learn from nature.
 - [REIMEI Nature-Inspired Energy Architecture](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README.md) — A portal that organizes Master's nature-inspired and distributed energy concepts, including rotational magnetic energy harvesting, REIMEI-NOP, sound and vibration energy, pressure-based water-loop recovery, heat and exhaust recovery, vehicle energy recovery, and AI android energy-core hypotheses. These are open hypotheses and open invention concepts, not proven completed technologies.
 
 - [Japanese version: REIMEI 自然模倣型エネルギー・アーキテクチャ](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README_ja.md)
-## Related Articles / 関連記事
-
-### 雷の原理を模倣する自然起源プラズマ炉構想──REIMEI-NOPという一般人のオープン仮説
-
-https://note.com/inchacomusho/n/nf62145209118
-
-### REIMEI-NOP 技術設計書兼文明宣言（Open Concept）
-
-https://note.com/inchacomusho/n/n79be86605430
 
 ---
 
